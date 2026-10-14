@@ -6,7 +6,7 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 
 | Notebook | Topics covered |
 | --- | --- |
-| [Assignment 1: Data and Feature Engineering](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb) | Using pandas to clean and prepare data, handle missing values, and engineer features. |
+| [Assignment 1: Data and Feature Engineering](./Week_2/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb) | Using pandas to clean and prepare data, handle missing values, and engineer features. |
 
 ## Week 3: Pandas and Exploratory Data Analysis
 
