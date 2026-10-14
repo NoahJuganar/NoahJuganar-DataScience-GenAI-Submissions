@@ -6,6 +6,7 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 
 - [Assignment 1: Data and Feature Engineering](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
 - [2.02: Joining and Merging DataFrames](./2_02_Joining_DataFrames.ipynb)
+- [2.03: Calculated Fields, Indexing and Subsetting](./2_03_Calculated_Fields%2C_Indexing_and_Subsetting.ipynb)
 
 ## License
 
