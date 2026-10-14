@@ -4,11 +4,18 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 
 ## Assignments
 
-- [Assignment 1: Data and Feature Engineering](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
-- [2.02: Joining and Merging DataFrames](./2_02_Joining_DataFrames.ipynb)
-- [2.03: Calculated Fields, Indexing and Subsetting](./2_03_Calculated_Fields%2C_Indexing_and_Subsetting.ipynb)
-- [2.04: Transforms and Concatenation](./2_04_Transforms_and_Concatenation.ipynb)
-- [2.05: Exploratory Data Analysis (EDA)](./2_05_Exploratory_Data_Analysis.ipynb)
+| Notebook | Topics covered |
+| --- | --- |
+| [Assignment 1: Data and Feature Engineering](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb) | Using pandas to clean and prepare data, handle missing values, and engineer features. |
+
+## Week 3 — Pandas and Exploratory Data Analysis
+
+| Notebook | Topics covered |
+| --- | --- |
+| [2.02: Joining and Merging DataFrames](./Week_3/2_02_Joining_DataFrames.ipynb) | Combining DataFrames using joins and exploring how join types affect retained records. |
+| [2.03: Calculated Fields, Indexing and Subsetting](./Week_3/2_03_Calculated_Fields%2C_Indexing_and_Subsetting.ipynb) | Creating calculated columns, selecting data, and filtering rows and columns. |
+| [2.04: Transforms and Concatenation](./Week_3/2_04_Transforms_and_Concatenation.ipynb) | Transforming data and concatenating DataFrames. |
+| [2.05: Exploratory Data Analysis (EDA)](./Week_3/2_05_Exploratory_Data_Analysis.ipynb) | Checking missing values and duplicates, summarising data, and exploring patterns with visualisations. |
 
 ## License
 
