@@ -16,6 +16,7 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | [2.03: Calculated Fields, Indexing and Subsetting](./Week_3/2_03_Calculated_Fields%2C_Indexing_and_Subsetting.ipynb) | Creating calculated columns, selecting data, and filtering rows and columns. |
 | [2.04: Transforms and Concatenation](./Week_3/2_04_Transforms_and_Concatenation.ipynb) | Transforming data and concatenating DataFrames. |
 | [2.05: Exploratory Data Analysis (EDA)](./Week_3/2_05_Exploratory_Data_Analysis.ipynb) | Checking missing values and duplicates, summarising data, and exploring patterns with visualisations. |
+| [Seminar 3: Titanic Exploratory Data Analysis](./Week_3/Seminar_3_Titanic_EDA.ipynb) | Investigating survival patterns, age and fare distributions, outliers, missing values, and engineered features; includes limitations and interpretation. |
 
 ## License
 
