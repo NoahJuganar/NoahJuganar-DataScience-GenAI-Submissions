@@ -18,6 +18,13 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | [2.05: Exploratory Data Analysis (EDA)](./Week_3/2_05_Exploratory_Data_Analysis.ipynb) | Checking missing values and duplicates, summarising data, and exploring patterns with visualisations. |
 | [Seminar 3: Titanic Exploratory Data Analysis](./Week_3/Seminar_3_Titanic_EDA.ipynb) | Investigating survival patterns, age and fare distributions, outliers, missing values, and engineered features; includes limitations and interpretation. |
 
+## Week 4: Supervised Machine Learning and Regression
+
+| Notebook | Topics covered |
+| --- | --- |
+| [4.01: Linear Regression (Statistics vs Machine Learning)](./Week_4/4_01_Linear_Regression_%28statistics_vs_machine_learning%29.ipynb) | Comparing statistical inference with machine-learning prediction using OLS, train-test splitting, R² and LASSO (L1) regularisation. |
+| [4.02: Logistic Regression](./Week_4/4_02_Logistics_Regression.ipynb) | Binary classification using the breast-cancer dataset, min-max scaling, stratified train-test splitting, L2 regularisation and accuracy. |
+
 ## License
 
 This repository is licensed under the MIT License.
