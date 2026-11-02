@@ -26,6 +26,12 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | [4.02: Logistic Regression](./Week_4/4_02_Logistics_Regression.ipynb) | Binary classification using the breast-cancer dataset, min-max scaling, stratified train-test splitting, L2 regularisation and accuracy. |
 | [Decision Trees: Completed Exercise](./Week_4/4_03_Decision_Trees_COMPLETED.ipynb) | Training and tuning decision trees, comparing macro F1 and macro recall and evaluating generalisation on test data. |
 
+## Week 5: Ensemble Machine Learning
+
+| Notebook | Topics covered |
+| --- | --- |
+| [5.01: Random Forest and Gradient Boosting Decision Trees](./Week_5/5_01_Random_Forest_and_GBDT.ipynb) | Comparing logistic regression, random forests, gradient boosting and XGBoost for credit-risk prediction; hyperparameter tuning, macro precision/recall/F1, test-set performance and confusion matrices. |
+
 ## License
 
 This repository is licensed under the MIT License.
