@@ -25,6 +25,12 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | [4.01: Linear Regression (Statistics vs Machine Learning)](./Week_4/4_01_Linear_Regression_%28statistics_vs_machine_learning%29.ipynb) | Comparing statistical inference with machine-learning prediction using OLS, train-test splitting, R² and LASSO (L1) regularisation. |
 | [4.02: Logistic Regression](./Week_4/4_02_Logistics_Regression.ipynb) | Binary classification using the breast-cancer dataset, min-max scaling, stratified train-test splitting, L2 regularisation and accuracy. |
 
+## Week 5: Ensemble Machine Learning
+
+| Notebook | Topics covered |
+| --- | --- |
+| [5.01: Random Forest and Gradient Boosting Decision Trees](./Week_5/5_01_Random_Forest_and_GBDT_COMPLETED.ipynb) | Comparing logistic regression, random forests, gradient boosting and XGBoost on credit-risk classification; five-fold cross-validation, hyperparameter tuning, macro precision/recall/F1, confusion matrices and overfitting. The credit CSV is supplied through my.wbs and must be uploaded to Colab. |
+
 ## License
 
 This repository is licensed under the MIT License.
