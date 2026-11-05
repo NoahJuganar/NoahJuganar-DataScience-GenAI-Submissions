@@ -31,6 +31,7 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | Notebook | Topics covered |
 | --- | --- |
 | [5.01: Random Forest and Gradient Boosting Decision Trees](./Week_5/5_01_Random_Forest_and_GBDT.ipynb) | Comparing logistic regression, random forests, gradient boosting and XGBoost for credit-risk prediction; hyperparameter tuning, macro precision/recall/F1, test-set performance and confusion matrices. |
+| [5.02: Modelling Hackathon](./Week_5/5_02_Modelling_Hackathon.ipynb) | Predicting student pass/fail outcomes using classification baselines, logistic regression, decision trees and ensembles; stratified cross-validation, overfitting diagnosis, efficient hyperparameter tuning, held-out test evaluation and feature importance. |
 
 ## License
 
