@@ -33,6 +33,13 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | [5.01: Random Forest and Gradient Boosting Decision Trees](./Week_5/5_01_Random_Forest_and_GBDT.ipynb) | Comparing logistic regression, random forests, gradient boosting and XGBoost for credit-risk prediction; hyperparameter tuning, macro precision/recall/F1, test-set performance and confusion matrices. |
 | [5.02: Modelling Hackathon](./Week_5/5_02_Modelling_Hackathon.ipynb) | Predicting student pass/fail outcomes using classification baselines, logistic regression, decision trees and ensembles; stratified cross-validation, overfitting diagnosis, efficient hyperparameter tuning, held-out test evaluation and feature importance. |
 
+## Week 6: Deep Learning with PyTorch
+
+| Notebook | Topics covered |
+| --- | --- |
+| [6.01: Logistic Regression in PyTorch](./Week_6/6_01_logistic_regression_in_pytorch.ipynb) | Building logistic regression in PyTorch using tensors, sigmoid activation, binary cross-entropy loss, SGD, manual training loops, and classification evaluation. |
+| [6.02: Dense Neural Networks](./Week_6/6_02_DNN_101.ipynb) | Building a fully connected neural network with ReLU layers, mini-batch training, Adam and MSE loss; exercises compare 100 vs 1,000 epochs and different network architectures. |
+
 ## License
 
 This repository is licensed under the MIT License.
