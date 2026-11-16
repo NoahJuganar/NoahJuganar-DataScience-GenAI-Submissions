@@ -40,6 +40,13 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | [6.01: Logistic Regression in PyTorch](./Week_6/6_01_logistic_regression_in_pytorch.ipynb) | Building logistic regression in PyTorch using tensors, sigmoid activation, binary cross-entropy loss, SGD, manual training loops, and classification evaluation. |
 | [6.02: Dense Neural Networks](./Week_6/6_02_DNN_101.ipynb) | Building a fully connected neural network with ReLU layers, mini-batch training, Adam and MSE loss; exercises compare 100 vs 1,000 epochs and different network architectures. |
 
+## Week 7: Image Classification and Self-Attention
+
+| Notebook | Topics covered |
+| --- | --- |
+| [7.01: Convolutional Neural Networks](./Week_7/7_01_convolutional_neural_networks.ipynb) | Classifying chest X-rays with a PyTorch CNN: image preparation, convolution, pooling, batch normalisation, dropout, binary cross-entropy, Adam, validation, early stopping and test evaluation. |
+| [7.X: Illustrated Self-Attention (Optional)](./Week_7/7_X_illustrated_self_attention_.ipynb) | Exploring query, key and value representations, attention scores, softmax, and weighted outputs through visual explanations and PyTorch/TensorFlow examples. |
+
 ## License
 
 This repository is licensed under the MIT License.
