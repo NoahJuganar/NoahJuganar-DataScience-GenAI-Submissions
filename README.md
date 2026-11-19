@@ -46,6 +46,7 @@ This repository contains my Python notebooks, data analysis exercises, and assig
 | --- | --- |
 | [7.01: Convolutional Neural Networks](./Week_7/7_01_convolutional_neural_networks.ipynb) | Classifying chest X-rays with a PyTorch CNN: image preparation, convolution, pooling, batch normalisation, dropout, binary cross-entropy, Adam, validation, early stopping and test evaluation. |
 | [7.X: Illustrated Self-Attention (Optional)](./Week_7/7_X_illustrated_self_attention_.ipynb) | Exploring query, key and value representations, attention scores, softmax, and weighted outputs through visual explanations and PyTorch/TensorFlow examples. |
+| [Seminar 7: Salary Exploratory Data Analysis](./Week_7/7_01_Exploratory_Data_Analysis_Salary_Student.ipynb) | Exploring 16,534 salary records with pandas: data structure, missing values, duplicates, descriptive statistics, salary by experience, scatter plots, distributions, pairwise relationships, and basic data preparation. |
 
 ## License
 
